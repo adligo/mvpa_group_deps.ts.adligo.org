@@ -6,6 +6,13 @@
   "bugs": {
     "url": "https://github.com/adligo/mvpa_group_deps.ts.adligo.org/issues"
   },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.9"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/adligo/mvpa_group_deps.ts.adligo.org.git"
