@@ -1,0 +1,16 @@
+{
+  "name": "mvpa_group_deps.ts.adligo.org",
+  "version": "1.0.0",
+  "description": "This project contains the dependencies for the libraries built in the mvpa_group.ts.adligo.org project.",
+  "homepage": "https://github.com/adligo/mvpa_group_deps.ts.adligo.org#readme",
+  "bugs": {
+    "url": "https://github.com/adligo/mvpa_group_deps.ts.adligo.org/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adligo/mvpa_group_deps.ts.adligo.org.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Scott Morgan",
+  "type": "module"
+}
