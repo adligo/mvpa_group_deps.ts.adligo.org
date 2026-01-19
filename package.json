@@ -9,18 +9,21 @@
   "dependencies": {
     "buffer": "^6.0.3",
     "child_process": "^1.0.2",
+    "fs": "^0.0.1-security",
     "jsdom": "^27.4.0",
     "linkedom": "^0.18.12",
     "npm": "^11.7.0",
+    "path": "^0.12.7",
     "path-browserify": "^1.0.1",
     "process": "^0.11.10",
     "stream-browserify": "^3.0.0",
     "util": "^0.12.5"
-  },
+    },
   "devDependencies": {
     "@types/express": "^5.0.6",
     "@types/jsdom": "^27.0.0",
     "@types/node": "^25.0.9",
+    "@types/uuid": "^9.0.0",
     "concurrently": "^9.2.1",
     "connect-livereload": "^0.6.1",
     "express": "^5.2.1",
