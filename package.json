@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "buffer": "^6.0.3",
+    "child_process": "^1.0.2",
     "jsdom": "^27.4.0",
     "linkedom": "^0.18.12",
     "npm": "^11.7.0",
